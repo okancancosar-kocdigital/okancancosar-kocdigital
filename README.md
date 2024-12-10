@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @okancancosar
+- 👀 I’m interested in mobile
+- 🌱 I’m currently learning next.js
+- 📫 How to reach me okancancosar@gmail.com
